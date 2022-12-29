@@ -1,0 +1,32 @@
+body{
+    background-color: #F2F2F2;
+    margin: 1%;
+    padding: 1%;
+}
+
+
+nav{
+    border: 2px solid black;
+    color: blue;
+    background-color: #fff;
+    overflow: auto;
+    padding-left: 8%;
+}
+nav a{
+    box-sizing: border-box;
+    display: inline-block;
+    line-height: 45px;
+    height: 60px;
+    color: #FFFFFF;
+    background-color: #486B02;
+    text-decoration: none;
+    margin: 1% 2% 1% 8%;
+    padding: 1% 2%;
+    border-radius: 25px;
+}
+
+@media all and (min-width:900px){
+    body{
+        background-color: blue;
+    }
+}
