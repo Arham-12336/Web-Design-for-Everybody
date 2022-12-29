@@ -1,0 +1,25 @@
+body{
+
+    margin: 15px;
+}
+
+div{
+    margin: 10px;
+    
+}
+button{
+    background-color: aqua;
+}
+
+.demo{
+    margin-top: 10px;
+    background-color: gray;
+}
+
+.close{
+    display: none;
+}
+
+.open{
+    display: block;
+}
